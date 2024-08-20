@@ -32,6 +32,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandan-Kondapuram&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/Chandan-Kondapuram/unveiling-customer-trends">
@@ -76,15 +83,22 @@
 
 ---
 
+### ✨ Open Source Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Chandan-Kondapuram&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Open Source Contributions"/>
+</p>
+
+---
+
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandankondapuram">
+  <a href="https://www.linkedin.com/in/chandan-kondapuram-56b7581b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/Chandan-Kondapuram">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:chandankondapuram@example.com">
+  <a href="mailto:chandanmudhiraj@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
