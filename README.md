@@ -34,17 +34,17 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/yourusername/unveiling-customer-trends">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=unveiling-customer-trends&theme=radical"/>
+  <a href="https://github.com/Chandan-Kondapuram/unveiling-customer-trends">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=unveiling-customer-trends&theme=radical"/>
   </a>
-  <a href="https://github.com/yourusername/nba-player-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nba-player-stats&theme=radical"/>
+  <a href="https://github.com/Chandan-Kondapuram/nba-player-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=nba-player-stats&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/plant-disease-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=plant-disease-detection&theme=radical"/>
+  <a href="https://github.com/Chandan-Kondapuram/plant-disease-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=plant-disease-detection&theme=radical"/>
   </a>
 </p>
 
@@ -52,15 +52,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandan-Kondapuram&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Kondapuram&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🔥 My Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chandan-Kondapuram&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@
   <a href="https://www.linkedin.com/in/chandankondapuram">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/Chandan-Kondapuram">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:chandankondapuram@example.com">
@@ -95,14 +95,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Rubik's Cube" width="200"/>
 </p>
-<p align="center">I love solving Rubik's cubes and can solve one in under a minute!</p>
+<p align="center">I have a knack for solving complex problems, and I once solved a Rubik's cube in under a minute!</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Chandan-Kondapuram&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/yourusername/yourusername?style=for-the-badge&color=red" alt="Visitors Count"/>
+  <img src="https://badges.pufler.dev/visits/Chandan-Kondapuram/Chandan-Kondapuram?style=for-the-badge&color=red" alt="Visitors Count"/>
 </p>
