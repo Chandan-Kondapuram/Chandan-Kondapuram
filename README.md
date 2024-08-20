@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Chandan Kondapuram 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlN9pTq2L4BkrxG/giphy.gif" alt="Data Analytics" width="200"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Data Analytics" width="200"/>
 </p>
+
 
 <p align="center">
   <em>🚀 Data Science Enthusiast | 📊 Big Data & Visualization Aficionado | 💻 Tech Explorer</em>
