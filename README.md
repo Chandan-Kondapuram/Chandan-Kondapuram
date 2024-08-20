@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Chandan Kondapuram 👋</h1>
 
 <p align="center">
@@ -32,34 +31,23 @@
 ---
 
 ### 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/yourusername/unveiling-customer-trends">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=unveiling-customer-trends&theme=radical"/>
-  </a>
-  <a href="https://github.com/yourusername/nba-player-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nba-player-stats&theme=radical"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername/plant-disease-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=plant-disease-detection&theme=radical"/>
-  </a>
-</p>
+- **[Unveiling Customer Shopping Trends](https://github.com/yourusername/unveiling-customer-trends):** A big data project that analyzes customer shopping behavior and predicts subscription status using various models.
+- **[NBA Player Stats Dashboard](https://github.com/yourusername/nba-player-stats):** A dashboard that predicts game outcomes based on player statistics.
+- **[Plant Disease Detection](https://github.com/yourusername/plant-disease-detection):** A CNN-based model that detects plant diseases and recommends supplements.
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🔥 My Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -95,5 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
