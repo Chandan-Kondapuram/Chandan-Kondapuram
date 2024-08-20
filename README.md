@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Chandan Kondapuram 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Data Analytics" width="200"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Data Analytics" width="300"/>
 </p>
-
 
 <p align="center">
   <em>🚀 Data Science Enthusiast | 📊 Big Data & Visualization Aficionado | 💻 Tech Explorer</em>
@@ -16,6 +15,7 @@
 - 💼 Experienced in **React Development** and **Retail Analytics**.
 - 📊 Passionate about turning data into actionable insights and visual storytelling.
 - 🧠 Continuously learning and exploring new technologies in Data Science and Big Data.
+- 🌟 Fun fact: I was the captain of my school basketball team!
 
 ---
 
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -51,20 +52,24 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🔥 My Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 🌱 Currently Learning
+<p align="center">
+  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="Learning" width="300"/>
+</p>
+
 - **Advanced Deep Learning Techniques**
 - **Geospatial Visualization**
 - **Advanced Git for collaborative projects**
@@ -95,5 +100,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/yourusername/yourusername?style=for-the-badge&color=red" alt="Visitors Count"/>
 </p>
