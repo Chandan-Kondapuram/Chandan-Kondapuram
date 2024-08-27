@@ -32,13 +32,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandan-Kondapuram&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/Chandan-Kondapuram/unveiling-customer-trends">
@@ -55,13 +48,6 @@
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandan-Kondapuram&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Kondapuram&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
