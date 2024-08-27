@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Chandan Kondapuram 👋</h1>
 
 <p align="center">
-  <img src="https://lottiefiles.com/free-animation/dynamic-bar-graph-AGdUem2QHQ" alt="Data Analytics" width="300"/>
+  <img src="https://i.gifer.com/Ax3H.gif" alt="Data Analytics" width="300"/>
 </p>
 
 <p align="center">
