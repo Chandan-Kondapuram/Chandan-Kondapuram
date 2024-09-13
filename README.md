@@ -34,16 +34,16 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/Chandan-Kondapuram/unveiling-customer-trends">
+  <a href="https://github.com/Chandan-Kondapuram/Univelling-Customer-Trends">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=unveiling-customer-trends&theme=radical"/>
   </a>
-  <a href="https://github.com/Chandan-Kondapuram/nba-player-stats">
+  <a href="https://github.com/Chandan-Kondapuram/Credit-Approval-Prediction">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=nba-player-stats&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Chandan-Kondapuram/plant-disease-detection">
+  <a href="https://github.com/Chandan-Kondapuram/Mood_Analysis_in_Twitter">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=plant-disease-detection&theme=radical"/>
   </a>
 </p>
