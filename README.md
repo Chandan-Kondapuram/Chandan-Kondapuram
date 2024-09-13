@@ -67,14 +67,7 @@
 - **Geospatial Visualization**
 - **Advanced Git for collaborative projects**
 
----
 
-### ✨ Open Source Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Chandan-Kondapuram&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Open Source Contributions"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 <p align="center">
@@ -89,20 +82,5 @@
   </a>
 </p>
 
----
 
-### ⚡ Fun Fact
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Rubik's Cube" width="200"/>
-</p>
-<p align="center">I have a knack for solving complex problems, and I once solved a Rubik's cube in under a minute!</p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandan-Kondapuram&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/Chandan-Kondapuram/Chandan-Kondapuram?style=for-the-badge&color=red" alt="Visitors Count"/>
-</p>
