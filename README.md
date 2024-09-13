@@ -34,9 +34,9 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/Chandan-Kondapuram/Univelling-Customer-Trends">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=unveiling-customer-trends&theme=radical"/>
-  </a>
+<a href="https://github.com/Chandan-Kondapuram/Univelling-Customer-Trends">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=Univelling-Customer-Trends&theme=radical"/>
+</a>
   <a href="https://github.com/Chandan-Kondapuram/Credit-Approval-Prediction">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=nba-player-stats&theme=radical"/>
   </a>
