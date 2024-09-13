@@ -38,13 +38,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=Univelling-Customer-Trends&theme=radical"/>
 </a>
   <a href="https://github.com/Chandan-Kondapuram/Credit-Approval-Prediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=nba-player-stats&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=Credit-Approval-Prediction&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Chandan-Kondapuram/Mood_Analysis_in_Twitter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=plant-disease-detection&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-Kondapuram&repo=Mood_Analysis_in_Twitter&theme=radical"/>
   </a>
 </p>
 
