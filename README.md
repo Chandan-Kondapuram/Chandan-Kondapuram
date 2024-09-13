@@ -49,14 +49,7 @@
 </p>
 
 
----
 
-### 🔥 My Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chandan-Kondapuram&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ### 🌱 Currently Learning
 <p align="center">
