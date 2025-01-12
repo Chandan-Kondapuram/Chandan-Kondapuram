@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Pursuing my Master's in **Data Science** at Kent State University.
-- 💼 Experienced in **React Development** and **Data Analytics**.
+- 💼 Experienced in Data Analytics**.
 - 📊 Passionate about turning data into actionable insights and visual storytelling.
 - 🧠 Continuously learning and exploring new technologies in Data Science and Big Data.
 - 🌟 Fun fact: I was the captain of my school basketball team!
